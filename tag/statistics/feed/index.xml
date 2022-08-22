@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Statistics &#8211; GMBS Consulting</title>
-	<atom:link href="/tag/statistics/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/gmbs-consulting/tag/statistics/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Insight Management</description>
 	<lastBuildDate>Mon, 30 Mar 2020 14:46:12 +0000</lastBuildDate>

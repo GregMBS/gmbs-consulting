@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Daily Memphian &#8211; GMBS Consulting</title>
-	<atom:link href="/tag/daily-memphian/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/gmbs-consulting/tag/daily-memphian/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Insight Management</description>
 	<lastBuildDate>Thu, 20 Feb 2020 16:57:21 +0000</lastBuildDate>
